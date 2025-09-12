@@ -5,7 +5,7 @@
 
 -- Lista de usuários autorizados
 local WHITELIST = {
-    "LinuxhubDev1",
+    "TrollLolXD666",
     "carol00941",
     "kanakiwhakO",
     "crmmff2",
