@@ -2100,7 +2100,7 @@ ImunesTab:Button({
     Desc = "Devs: cahh,Night",
     Locked = false,
     Callback = function()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/FDSASLEISKKJ/antbug/refs/heads/main/Main.txt"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/267266273ffsfs/antbug/refs/heads/main/Main.txt"))()
     end
 })
 
@@ -2109,7 +2109,7 @@ ImunesTab:Button({
     Desc = "DEU MO TRABALHO SE NÃO GOSTOU FAZ MELHOR AI DESGRAÇA",
     Locked = false,
     Callback = function()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/FDSASLEISKKJ/antsomv3/refs/heads/main/Main.txt"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/267266273ffsfs/antsom/refs/heads/main/Main.txt"))()
     end
 })
 
@@ -2516,7 +2516,7 @@ FunTab:Button({
     Title = "Duplicar Itens",
     Description = "Multiplica suas ferramentas/itens",
     Callback = function()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/FDSASLEISKKJ/duplicar-textos/refs/heads/main/Main.txt"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/267266273ffsfs/tool-x2222/refs/heads/main/Main.txt"))()
     end
 })
 
@@ -2567,7 +2567,7 @@ FunTab:Button({
     Title = "Animation GUI",
     Description = "é so um treco de animação de brookhaven vou atualizar logo logo",
     Callback = function()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/FDSASLEISKKJ/animationgui/refs/heads/main/Main.txt"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/267266273ffsfs/animationgui/refs/heads/main/Main.txt"))()
     end
 })
 
@@ -2576,7 +2576,7 @@ FunTab:Button({
     Description = "Executa o Bug Hammer",
     Callback = function()
         local success, err = pcall(function()
-            loadstring(game:HttpGet("https://raw.githubusercontent.com/FDSASLEISKKJ/bug-hammer-/refs/heads/main/Main.txt"))()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/267266273ffsfs/tooldobugkkj/refs/heads/main/Main.txt"))()
         end)
         if success then
             TeleportCarro:MostrarNotificacao("✅ Bug Hammer carregado!")
@@ -2591,7 +2591,7 @@ FunTab:Button({
     Description = "Executa a Espada do goner",
     Callback = function()
         local success, err = pcall(function()
-            loadstring(game:HttpGet("https://raw.githubusercontent.com/FDSASLEISKKJ/sword-goner/refs/heads/main/Main.txt"))()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/267266273ffsfs/goner/refs/heads/main/Main.txt"))()
         end)
         if success then
             TeleportCarro:MostrarNotificacao("✅ Espada Bugadora carregada!")
@@ -2668,7 +2668,7 @@ FunTab:Button({
     Desc = "Abre o Skin Hub",
     Locked = false,
     Callback = function()
-       loadstring(game:HttpGet("https://raw.githubusercontent.com/FDSASLEISKKJ/skins-hub/refs/heads/main/Main.txt"))()
+       loadstring(game:HttpGet("https://raw.githubusercontent.com/267266273ffsfs/skins-hub/refs/heads/main/Main.txt"))()
     end
 })
 
@@ -2677,7 +2677,7 @@ FunTab:Button({
     Desc = "Executa o FE VR fiz por fazer ficou uma bosta metade é minha e outra do rochips",
     Locked = false,
     Callback = function()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/FDSASLEISKKJ/fe-vr-kkj/refs/heads/main/Main.txt"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/267266273ffsfs/fe-vr/refs/heads/main/Main.txt"))()
     end
 })
 
@@ -2686,7 +2686,7 @@ FunTab:Button({
     Desc = "Equipa o relógio Omnitrix",
     Locked = false,
     Callback = function()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/FDSASLEISKKJ/Ominitrix/refs/heads/main/Main.txt"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/267266273ffsfs/Ominitrix/refs/heads/main/Main.txt"))()
     end
 })
 
@@ -2695,7 +2695,7 @@ FunTab:Button({
     Desc = "Ativa o Kamui (hubzin)",
     Locked = false,
     Callback = function()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/FDSASLEISKKJ/kamui/refs/heads/main/Main.txt"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/267266273ffsfs/kamui/refs/heads/main/Main.txt"))()
     end
 })
 
@@ -2731,7 +2731,7 @@ FunTab:Button({
     Desc = "ele funciona só com o de multiplicar tools",
     Locked = false,
     Callback = function()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/FDSASLEISKKJ/formar-textos/refs/heads/main/Main.txt"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/267266273ffsfs/formar-texto/refs/heads/main/Main.txt"))()
     end
 })
 
@@ -2740,7 +2740,7 @@ FunTab:Button({
     Desc = "fique tranquilo ele ta funcionando kk",
     Locked = false,
     Callback = function()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/FDSASLEISKKJ/Iphone-troll/refs/heads/main/Main.txt"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/267266273ffsfs/phonetroll/refs/heads/main/Main.txt"))()
     end
 })
 
@@ -2749,7 +2749,7 @@ FunTab:Button({
     Desc = "so por o nick real e completo completo do player",
     Locked = false,
     Callback = function()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/FDSASLEISKKJ/guitarratroll/refs/heads/main/Main.txt"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/267266273ffsfs/guitarrafjdhjg/refs/heads/main/Main.txt"))()
     end
 })
 
