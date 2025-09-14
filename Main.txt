@@ -206,6 +206,11 @@ local Window = WindUI:CreateWindow({
     },
 })
 
+local BladeBallTab = Window:Tab({
+    Title = "Blade Ball",
+    Icon = "sword",
+    Locked = false,
+})
 local StealBrainrotTab = Window:Tab({
     Title = "Steal a Brainrot",
     Icon = "brain",
@@ -335,6 +340,33 @@ Window:Tag({
 })
 
 -- ==============================
+-- ABA BLADE BALL
+-- ==============================
+local BladeBallSection = BladeBallTab:Section({
+    Title = "Blade Ball Hubs",
+    TextXAlignment = "Left",
+    TextSize = 17,
+})
+
+BladeBallTab:Button({
+    Title = "Blade Ball Hub #1",
+    Desc = "Hub principal para Blade Ball com auto parry e mais funcionalidades",
+    Locked = false,
+    Callback = function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/sirapobsriumang/Blade-ball/main/Blade-ball-free.lua"))()
+    end
+})
+
+BladeBallTab:Button({
+    Title = "Blade Ball Hub #2",
+    Desc = "Hub alternativo Soluna para Blade Ball com auto parry",
+    Locked = false,
+    Callback = function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Auto-ParryScript/Bladeball_Script/refs/heads/main/Soluna", true))()
+    end
+})
+
+-- ==============================
 -- NOVA ABA: STEAL A BRAINROT
 -- ==============================
 
@@ -403,7 +435,7 @@ StealBrainrotTab:Button({
     Desc = "Script foda pra crlh",
     Locked = false,
     Callback = function()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/onliengamerop/Steal-a-brainrot/refs/heads/main/Protected_3771863424757750.lua.txt"))(
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/onliengamerop/Steal-a-brainrot/refs/heads/main/Protected_3771863424757750.lua.txt"))()
     end
 })
 
