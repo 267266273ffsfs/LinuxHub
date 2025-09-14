@@ -206,11 +206,6 @@ local Window = WindUI:CreateWindow({
     },
 })
 
-local BladeBallTab = Window:Tab({
-    Title = "Blade Ball",
-    Icon = "sword",
-    Locked = false,
-})
 local StealBrainrotTab = Window:Tab({
     Title = "Steal a Brainrot",
     Icon = "brain",
