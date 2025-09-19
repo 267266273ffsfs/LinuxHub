@@ -26,6 +26,7 @@ local WHITELIST = {
     "EduardaBlox09089",
     "cantanguandi2",
     "darkizinho9910",
+    "HaHAHaHA_666375"
 }
 
 -- Verificação de autorização
